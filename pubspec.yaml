@@ -1,7 +1,7 @@
 name: battery_flutter
 description: "A plugin get device battery"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Huy28122003/battery_flutter
 
 environment:
   sdk: ^3.6.2
